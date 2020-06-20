@@ -1,0 +1,114 @@
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6302 - Database Management Systems
+Time :2017-09-20 02:32:59
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6302 - Database Management Systems
+Time :2017-09-20 02:33:06
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6302 - Database Management Systems
+Time :2017-09-20 02:53:57
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6302 - Database Management Systems
+Time :2017-09-20 02:54:02
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6301 - Programming and Data Structures II
+Time :2017-09-20 03:02:19
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6301 - Programming and Data Structures II
+Time :2017-09-20 03:02:26
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6301 - Programming and Data Structures II
+Time :2017-09-20 03:11:02
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:K.Baskar
+Staff_ID:baskercse
+Subject Edited:CS6301 - Programming and Data Structures II
+Time :2017-09-20 03:11:14
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:Radhakrishnan
+Staff_ID:radhakrishnancse
+Subject Edited:CS6303 - Computer Architecture
+Time :2017-09-20 03:18:17
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:Radhakrishnan
+Staff_ID:radhakrishnancse
+Subject Edited:CS6303 - Computer Architecture
+Time :2017-09-20 03:18:28
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:Radhakrishnan
+Staff_ID:radhakrishnancse
+Subject Edited:CS6303 - Computer Architecture
+Time :2017-09-20 03:23:38
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:Radhakrishnan
+Staff_ID:radhakrishnancse
+Subject Edited:CS6303 - Computer Architecture
+Time :2017-09-20 03:23:43
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:A.Arunkumar
+Staff_ID:arunsh
+Subject Edited:GE6351 - Environmental Science and Engineering
+Time :2017-09-20 03:36:31
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:A.Arunkumar
+Staff_ID:arunsh
+Subject Edited:GE6351 - Environmental Science and Engineering
+Time :2017-09-20 03:36:39
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:A.Arunkumar
+Staff_ID:arunsh
+Subject Edited:GE6351 - Environmental Science and Engineering
+Time :2017-09-20 03:42:52
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:A.Arunkumar
+Staff_ID:arunsh
+Subject Edited:GE6351 - Environmental Science and Engineering
+Time :2017-09-20 03:43:02
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:A.Arunkumar
+Staff_ID:arunsh
+Subject Edited:GE6351 - Environmental Science and Engineering
+Time :2017-09-20 03:43:05
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:Srimathi M
+Staff_ID:srimathiece
+Subject Edited:CS6304 - Analog and Digital Communications
+Time :2017-09-20 05:02:10
+................................................
+Dept:UG | B.E | CSE | 2nd Year | SEM:3 | Sec: A
+Staff_Name:Srimathi M
+Staff_ID:srimathiece
+Subject Edited:MA6351 - Transforms and Partial Differential Equations
+Time :2017-09-20 05:07:08
+................................................

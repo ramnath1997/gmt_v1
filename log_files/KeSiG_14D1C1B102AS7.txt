@@ -1,0 +1,180 @@
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6701 - Cryptography and Network Security
+Time :2017-09-19 08:41:08
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6701 - Cryptography and Network Security
+Time :2017-09-19 09:35:57
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-09-20 09:40:58
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-09-20 09:42:23
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-09-20 05:08:15
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-09-20 05:18:25
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-09-20 05:18:31
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-09-20 05:23:01
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:kartick
+Staff_ID:karthickcse
+Subject Edited:CS6007 - Information Retrieval
+Time :2017-09-20 05:35:28
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Kavita
+Staff_ID:kavithash
+Subject Edited:CS6704 - Resource Management Techniques
+Time :2017-09-20 05:39:26
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Baskar
+Staff_ID:baskarcse
+Subject Edited:IT6801 - Service Oriented Architecture
+Time :2017-09-20 05:41:08
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-09-20 05:46:50
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-09-21 05:09:47
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-09-21 05:11:19
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6704 - Resource Management Techniques
+Time :2017-09-21 05:12:54
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:IT6801 - Service Oriented Architecture
+Time :2017-09-21 05:13:25
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6007 - Information Retrieval
+Time :2017-09-21 05:13:58
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-09-25 11:24:18
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-04 09:43:22
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-07 06:36:02
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 09:38:51
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 09:38:55
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 02:42:40
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 05:04:07
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 05:05:03
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 05:05:18
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:CS6702 - Graph Theory and Applications
+Time :2017-10-13 05:14:41
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-10-14 02:02:39
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-10-14 02:03:46
+................................................
+Dept:UG | B.E | CSE | 4th Year | SEM:7 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6703 - Grid and Cloud Computing
+Time :2017-10-14 02:28:29
+................................................

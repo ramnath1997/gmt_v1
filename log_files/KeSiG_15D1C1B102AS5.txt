@@ -1,0 +1,54 @@
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:Preethi
+Staff_ID:preethicse
+Subject Edited:MA6566 - Discrete Mathematics
+Time :2017-09-20 09:44:31
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:Radhakrishnan
+Staff_ID:radhakrishnancse
+Subject Edited:CS6503 - Theory of Computation
+Time :2017-09-20 05:11:53
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:R.Chitra
+Staff_ID:chitrash
+Subject Edited:MA6566 - Discrete Mathematics
+Time :2017-09-20 05:15:28
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:S.Satheesh Kumar
+Staff_ID:satheeshkumarcse
+Subject Edited:CS6504 - Computer Graphics
+Time :2017-09-20 05:22:12
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:S.Satheesh Kumar
+Staff_ID:satheeshkumarcse
+Subject Edited:CS6502 - Object Oriented Analysis and Design
+Time :2017-09-20 05:29:44
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:Kanimozhi
+Staff_ID:kanimozhicse
+Subject Edited:CS6501 - Internet Programming
+Time :2017-09-20 05:34:25
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6502 - Object Oriented Analysis and Design
+Time :2017-10-13 06:45:00
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6502 - Object Oriented Analysis and Design
+Time :2017-10-13 06:45:19
+................................................
+Dept:UG | B.E | CSE | 3rd Year | SEM:5 | Sec: A
+Staff_Name:N.Premkumar
+Staff_ID:premkumarcse
+Subject Edited:CS6502 - Object Oriented Analysis and Design
+Time :2017-10-13 06:46:03
+................................................
